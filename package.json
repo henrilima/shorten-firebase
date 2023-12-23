@@ -1,0 +1,24 @@
+{
+  "name": "firebaseshorten",
+  "displayName": "Firebase Shorten",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "A new method to reduce your code, simple and easy to use, fast and lightweight.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "shorten",
+    "discord",
+    "database",
+    "helper",
+    "reduce",
+    "data",
+    "base",
+    "dados"
+  ],
+  "author": "Henrique Lima",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
