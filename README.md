@@ -10,9 +10,9 @@ O Shorten Firebase é um conjunto de funções que vão ajudar a reduzir o taman
 
 É fácil! Só colar esse código mágico na tag `<script>` do teu projeto:
 
-```html
+<!-- ```html
 <script src="https://raw.githubusercontent.com/henrilima/shorten-firebase/main/app.front.js"></script>
-```
+``` -->
 
 E pronto! Agora você tem o poder do Shorten Firebase nas suas mãos. 💪
 
